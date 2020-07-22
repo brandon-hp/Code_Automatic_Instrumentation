@@ -1,0 +1,1 @@
+public java.awt.Frame(java.lang.String,java.awt.GraphicsConfiguration),public java.awt.Frame(java.lang.String) throws java.awt.HeadlessException,public java.awt.Frame(java.awt.GraphicsConfiguration),public java.awt.Frame() throws java.awt.HeadlessException,
